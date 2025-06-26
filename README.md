@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/conference-deadlines/.github/workflows/deploy.yml?branch=main)](https://github.com/YOUR_USERNAME/conference-deadlines/actions)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/conference-deadlines)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/conference-deadlines?style=social)](https://github.com/YOUR_USERNAME/conference-deadlines/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/conference-deadlines?style=social)](https://github.com/YOUR_USERNAME/conference-deadlines/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/zhaoxu98/conference-deadlines/.github/workflows/deploy.yml?branch=main)](https://github.com/zhaoxu98/conference-deadlines/actions)
+[![License](https://img.shields.io/github/license/zhaoxu98/conference-deadlines)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/zhaoxu98/conference-deadlines?style=social)](https://github.com/zhaoxu98/conference-deadlines/stargazers)
+[![Forks](https://img.shields.io/github/forks/zhaoxu98/conference-deadlines?style=social)](https://github.com/zhaoxu98/conference-deadlines/network/members)
 
 **A beautiful, modern personal conference deadline tracker for academics and researchers**
 
@@ -273,14 +273,14 @@ The tracker is fully optimized for mobile devices:
 We welcome contributions! Here's how you can help:
 
 ### 🐛 Report Bugs
-Found a bug? [Open an issue](https://github.com/YOUR_USERNAME/conference-deadlines/issues) with:
+Found a bug? [Open an issue](https://github.com/zhaoxu98/conference-deadlines/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior
 - Screenshots if applicable
 
 ### 💡 Suggest Features
-Have an idea? [Create a feature request](https://github.com/YOUR_USERNAME/conference-deadlines/issues) and tell us:
+Have an idea? [Create a feature request](https://github.com/zhaoxu98/conference-deadlines/issues) and tell us:
 - What problem it solves
 - How it should work
 - Why it would be useful
@@ -311,9 +311,9 @@ If this project helped you, please consider:
 
 ### 📈 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/conference-deadlines?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/conference-deadlines?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/conference-deadlines?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zhaoxu98/conference-deadlines?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zhaoxu98/conference-deadlines?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/zhaoxu98/conference-deadlines?style=social)
 
 ## 🔗 Related Projects
 
