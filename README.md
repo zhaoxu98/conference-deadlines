@@ -9,6 +9,8 @@
 
 **A beautiful, modern personal conference deadline tracker for academics and researchers**
 
+**Author:** [Zhao (Bill) Xu](https://zhaohsu.top/) • **GitHub:** [@zhaoxu98](https://github.com/zhaoxu98)
+
 [🎯 Live Demo](#) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-conference-data-format) • [🤝 Contributing](#-contributing)
 
 *Never miss another conference deadline again! ⭐ Star this repo to show your support!*
