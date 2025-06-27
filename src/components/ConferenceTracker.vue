@@ -77,7 +77,7 @@ export default {
           ],
           conference_date: "Jun, 2026",
           location: "TBD",
-          tags: ["AI", "ML", "DL"]
+          tags: ["AI", "ML", "DL", "NLP"]
         },
         {
           title: "ICML 2026 (Estimated Time)",
@@ -87,9 +87,21 @@ export default {
             { type: "abstract", date: "2026-01-22 23:59:59", timezone: "AoE" },
             { type: "full_paper", date: "2026-01-29 23:59:59", timezone: "AoE" }
           ],
-          conference_date: "July, 2026",
+          conference_date: "Jul, 2026",
           location: "TBD",
           tags: ["AI", "ML", "DL"]
+        },
+        {
+          title: "COLM 2026 (Estimated Time)",
+          description: "Conference on Language Modeling",
+          website: "https://colmweb.org/dates.html",
+          deadlines: [
+            { type: "abstract", date: "2026-03-21 23:59:59", timezone: "AoE" },
+            { type: "full_paper", date: "2026-03-27 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "Oct, 2026",
+          location: "TBD",
+          tags: ["AI", "ML", "DL", "NLP"]
         },
         {
           title: "EMNLP 2026",
@@ -113,7 +125,7 @@ export default {
           { type: "abstract", date: "2026-05-14 23:59:59", timezone: "AoE" },
           { type: "full_paper", date: "2026-05-21 23:59:59", timezone: "AoE" }
           ],
-          conference_date: "December, 2026",
+          conference_date: "Dec, 2026",
           location: "TBD",
           tags: ["AI", "ML", "DL"]
         },
