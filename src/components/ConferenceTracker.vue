@@ -67,16 +67,40 @@ export default {
           location: "TBD",
           tags: ["AI", "ML", "DL"]
         },
+        // {
+        //   title: "NAACL 2026",
+        //   description: "North American Chapter of the Association for Computational Linguistics",
+        //   website: "https://2024.naacl.org/",
+        //   deadlines: [
+        //   // { type: "abstract", date: "2025-10-19 23:59:59", timezone: "AoE" },
+        //   { type: "full_paper", date: "2025-10-06 23:59:59", timezone: "AoE" }
+        //   ],
+        //   conference_date: "Jun, 2026",
+        //   location: "TBD",
+        //   tags: ["AI", "ML", "DL", "NLP"]
+        // },
         {
-          title: "NAACL 2026",
-          description: "North American Chapter of the Association for Computational Linguistics",
-          website: "https://2024.naacl.org/",
+          title: "CVPR 2026 (Estimated Time)",
+          description: "Conference on Computer Vision and Pattern Recognition",
+          website: "https://cvpr.thecvf.com/",
           deadlines: [
-          // { type: "abstract", date: "2025-10-19 23:59:59", timezone: "AoE" },
-          { type: "full_paper", date: "2025-10-06 23:59:59", timezone: "AoE" }
+            { type: "abstract", date: "2025-11-08 07:59:59", timezone: "UTC" },
+            { type: "full_paper", date: "2025-11-15 07:59:59", timezone: "UTC" }
           ],
           conference_date: "Jun, 2026",
           location: "TBD",
+          tags: ["AI", "ML", "DL", "CV"]
+        },
+        {
+          title: "ACL 2026",
+          description: "Association for Computational Linguistics",
+          website: "https://2026.aclweb.org/",
+          deadlines: [
+            // { type: "abstract", date: "2026-01-05 23:59:59", timezone: "AoE" },
+            { type: "full_paper", date: "2026-01-05 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "Jul, 2026",
+          location: "San Diego, USA",
           tags: ["AI", "ML", "DL", "NLP"]
         },
         {
