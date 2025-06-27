@@ -137,7 +137,7 @@ export default {
           ],
           conference_date: "Nov, 2026",
           location: "TBD",
-          tags: ["AI", "ML", "DL"]
+          tags: ["AI", "ML", "DL", "NLP"]
         },
 
         
