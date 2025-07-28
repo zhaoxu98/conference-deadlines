@@ -56,6 +56,18 @@ export default {
       selectedTags: [],
       conferences: [
       {
+          title: "NeurIPS 2025 Workshop",
+          description: "Conference on Neural Information Processing Systems",
+          website: "https://neurips.cc",
+          deadlines: [
+          // { type: "abstract", date: "2026-05-14 23:59:59", timezone: "AoE" },
+          { type: "full_paper", date: "2025-08-29 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "Dec 6, 2026",
+          location: "San Diego",
+          tags: ["AI", "ML", "DL"]
+        },
+      {
           title: "ICLR 2026",
           description: "International Conference on Learning Representations",
           website: "https://iclr.cc/Conferences/2026",
