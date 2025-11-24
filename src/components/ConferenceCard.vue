@@ -80,7 +80,7 @@ export default {
         'abstract': 'Abstract Deadline',
         'full_paper': 'Full Paper Deadline',
         'paper': 'Paper Deadline',
-        'registration': 'Registration Deadline'
+        'registration': 'Registration Deadline',
         'notification': 'Workshop Application Notification'
       };
       return types[type] || type;
