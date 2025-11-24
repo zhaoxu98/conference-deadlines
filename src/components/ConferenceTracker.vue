@@ -56,29 +56,65 @@ export default {
       selectedTags: [],
       conferences: [
       {
-          title: "NeurIPS 2025 Workshop",
-          description: "Conference on Neural Information Processing Systems",
-          website: "https://neurips.cc",
+          title: "ACL 2026",
+          description: "Association for Computational Linguistics",
+          website: "https://2026.aclweb.org/",
           deadlines: [
-          // { type: "abstract", date: "2026-05-14 23:59:59", timezone: "AoE" },
-          { type: "full_paper", date: "2025-08-29 23:59:59", timezone: "AoE" }
+            // { type: "abstract", date: "2026-01-05 23:59:59", timezone: "AoE" },
+            { type: "full_paper", date: "2026-01-05 23:59:59", timezone: "AoE" }
           ],
-          conference_date: "Dec 6, 2026",
-          location: "San Diego",
+          conference_date: "Jul 2, 2026",
+          location: "San Diego, USA",
+          tags: ["AI", "ML", "DL", "NLP"]
+        },
+        {
+          title: "ICML 2026",
+          description: "International Conference on Machine Learning",
+          website: "https://icml.cc/",
+          deadlines: [
+            { type: "abstract", date: "2026-01-23 23:59:59", timezone: "AoE" },
+            { type: "full_paper", date: "2026-01-28 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "Jul 6, 2026",
+          location: "Seoul, Korea",
           tags: ["AI", "ML", "DL"]
         },
-      {
-          title: "ICLR 2026",
-          description: "International Conference on Learning Representations",
-          website: "https://iclr.cc/Conferences/2026",
+        {
+          title: "ICML Workshop 2026",
+          description: "International Conference on Machine Learning",
+          website: "https://icml.cc/",
           deadlines: [
-          { type: "abstract", date: "2025-09-19 23:59:59", timezone: "AoE" },
-          { type: "full_paper", date: "2025-09-24 23:59:59", timezone: "AoE" }
+            { type: "notification", date: "2026-03-20 23:59:59", timezone: "AoE" },
+            { type: "full_paper", date: "2026-04-26 23:59:59", timezone: "AoE" }
           ],
-          conference_date: "May, 2026",
-          location: "TBD",
+          conference_date: "Jul 6, 2026",
+          location: "Seoul, Korea",
           tags: ["AI", "ML", "DL"]
         },
+      // {
+      //     title: "NeurIPS 2025 Workshop",
+      //     description: "Conference on Neural Information Processing Systems",
+      //     website: "https://neurips.cc",
+      //     deadlines: [
+      //     // { type: "abstract", date: "2026-05-14 23:59:59", timezone: "AoE" },
+      //     { type: "full_paper", date: "2025-08-29 23:59:59", timezone: "AoE" }
+      //     ],
+      //     conference_date: "Dec 6, 2026",
+      //     location: "San Diego",
+      //     tags: ["AI", "ML", "DL"]
+      //   },
+      // {
+      //     title: "ICLR 2026",
+      //     description: "International Conference on Learning Representations",
+      //     website: "https://iclr.cc/Conferences/2026",
+      //     deadlines: [
+      //     { type: "abstract", date: "2025-09-19 23:59:59", timezone: "AoE" },
+      //     { type: "full_paper", date: "2025-09-24 23:59:59", timezone: "AoE" }
+      //     ],
+      //     conference_date: "May, 2026",
+      //     location: "TBD",
+      //     tags: ["AI", "ML", "DL"]
+      //   },
         // {
         //   title: "NAACL 2026",
         //   description: "North American Chapter of the Association for Computational Linguistics",
@@ -91,42 +127,20 @@ export default {
         //   location: "TBD",
         //   tags: ["AI", "ML", "DL", "NLP"]
         // },
-        {
-          title: "CVPR 2026 (Estimated Time)",
-          description: "Conference on Computer Vision and Pattern Recognition",
-          website: "https://cvpr.thecvf.com/",
-          deadlines: [
-            { type: "abstract", date: "2025-11-08 07:59:59", timezone: "UTC" },
-            { type: "full_paper", date: "2025-11-15 07:59:59", timezone: "UTC" }
-          ],
-          conference_date: "Jun, 2026",
-          location: "TBD",
-          tags: ["AI", "ML", "DL", "CV"]
-        },
-        {
-          title: "ACL 2026",
-          description: "Association for Computational Linguistics",
-          website: "https://2026.aclweb.org/",
-          deadlines: [
-            // { type: "abstract", date: "2026-01-05 23:59:59", timezone: "AoE" },
-            { type: "full_paper", date: "2026-01-05 23:59:59", timezone: "AoE" }
-          ],
-          conference_date: "Jul, 2026",
-          location: "San Diego, USA",
-          tags: ["AI", "ML", "DL", "NLP"]
-        },
-        {
-          title: "ICML 2026 (Estimated Time)",
-          description: "International Conference on Machine Learning",
-          website: "https://icml.cc/",
-          deadlines: [
-            { type: "abstract", date: "2026-01-22 23:59:59", timezone: "AoE" },
-            { type: "full_paper", date: "2026-01-29 23:59:59", timezone: "AoE" }
-          ],
-          conference_date: "Jul, 2026",
-          location: "TBD",
-          tags: ["AI", "ML", "DL"]
-        },
+        // {
+        //   title: "CVPR 2026 (Estimated Time)",
+        //   description: "Conference on Computer Vision and Pattern Recognition",
+        //   website: "https://cvpr.thecvf.com/",
+        //   deadlines: [
+        //     { type: "abstract", date: "2025-11-08 07:59:59", timezone: "UTC" },
+        //     { type: "full_paper", date: "2025-11-15 07:59:59", timezone: "UTC" }
+        //   ],
+        //   conference_date: "Jun, 2026",
+        //   location: "TBD",
+        //   tags: ["AI", "ML", "DL", "CV"]
+        // },
+        
+        💡
         {
           title: "COLM 2026 (Estimated Time)",
           description: "Conference on Language Modeling",
@@ -140,20 +154,6 @@ export default {
           tags: ["AI", "ML", "DL", "NLP"]
         },
         {
-          title: "EMNLP 2026",
-          description: "Empirical Methods in Natural Language Processing",
-          website: "https://2025.emnlp.org/",
-          deadlines: [
-          // { type: "abstract", date: "2025-09-19 23:59:59", timezone: "AoE" },
-          { type: "full_paper", date: "2026-05-19 23:59:59", timezone: "AoE" }
-          ],
-          conference_date: "Nov, 2026",
-          location: "TBD",
-          tags: ["AI", "ML", "DL", "NLP"]
-        },
-
-        
-        {
           title: "NeurIPS 2026 (Estimated Time)",
           description: "Conference on Neural Information Processing Systems",
           website: "https://neurips.cc",
@@ -165,6 +165,33 @@ export default {
           location: "TBD",
           tags: ["AI", "ML", "DL"]
         },
+        {
+          title: "EMNLP 2026 (ARR 2026 March)",
+          description: "Empirical Methods in Natural Language Processing",
+          website: "https://2025.emnlp.org/",
+          deadlines: [
+          // { type: "abstract", date: "2025-09-19 23:59:59", timezone: "AoE" },
+          { type: "full_paper", date: "2026-05-25 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "Nov, 2026",
+          location: "TBD",
+          tags: ["AI", "ML", "DL", "NLP"]
+        },
+        {
+          title: "ICLR 2027",
+          description: "International Conference on Learning Representations",
+          website: "https://iclr.cc/Conferences/2026",
+          deadlines: [
+          { type: "abstract", date: "2026-09-19 23:59:59", timezone: "AoE" },
+          { type: "full_paper", date: "2026-09-24 23:59:59", timezone: "AoE" }
+          ],
+          conference_date: "May, 2027",
+          location: "TBD",
+          tags: ["AI", "ML", "DL"]
+        },
+
+        
+        
       ]
     };
   },
