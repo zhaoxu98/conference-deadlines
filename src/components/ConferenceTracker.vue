@@ -80,7 +80,7 @@ export default {
           tags: ["AI", "ML", "DL"]
         },
         {
-          title: "ICML Workshop 2026",
+          title: "💡 ICML Workshop 2026",
           description: "International Conference on Machine Learning",
           website: "https://icml.cc/",
           deadlines: [
@@ -140,7 +140,7 @@ export default {
         //   tags: ["AI", "ML", "DL", "CV"]
         // },
         
-        💡
+        
         {
           title: "COLM 2026 (Estimated Time)",
           description: "Conference on Language Modeling",
